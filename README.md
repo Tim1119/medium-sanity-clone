@@ -1,23 +1,17 @@
-# Next.js + Tailwind CSS Example
+# HULU Clone using Next Js
+I created a fully responsive Medium Blog clone using nextjs,tailwind css,vercel and sanity as my backend (sanity studio). It shows the blog owner to make post, users can comment but comment will only be visible on approval by the admin.  The link to the website is https://medium-sanity-clone-tim1119.vercel.app/
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+### Image 1 
+![image1.PNG](https://github.com/Tim1119/medium-sanity-clone/blob/main/public/image1.PNG?raw=true)
 
-## How to use
+### Image 2
+![image2.PNG](https://github.com/Tim1119/medium-sanity-clone/blob/main/public/image2.PNG?raw=true)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### Image 3 
+![image3.PNG](https://github.com/Tim1119/medium-sanity-clone/blob/main/public/image3.PNG?raw=true)
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### Image 4
+![image3.PNG](https://github.com/Tim1119/medium-sanity-clone/blob/main/public/image4.PNG?raw=true)
