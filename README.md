@@ -1,5 +1,5 @@
-# HULU Clone using Next Js
-I created a fully responsive Medium Blog clone using nextjs,tailwind css,vercel and sanity as my backend (sanity studio). It shows the blog owner to make post, users can comment but comment will only be visible on approval by the admin.  The link to the website is https://medium-sanity-clone-tim1119.vercel.app/
+# Medium Blog Clone using Next Js
+I created a fully responsive Medium Blog clone using nextjs,typescript,tailwind css,vercel and sanity as my backend (sanity studio). It shows the blog owner to make post, users can comment but comment will only be visible on approval by the admin.  The link to the website is https://medium-sanity-clone-tim1119.vercel.app/
 
 
 
