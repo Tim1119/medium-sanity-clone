@@ -16,7 +16,7 @@ const Header = () => {
             </div>
         </div>
         <div className="flex items-center space-x-5 text-green-600" >
-            <h3>Sign In</h3>
+            <h3 className="hidden md:inline" >Sign In</h3>
             <h3 className="border px-4 py-1 rounded-full border-green-600"> Get Started</h3>
         </div>
     </header>
